@@ -19,5 +19,4 @@ jax
 jaxlib
 sklearn
 celluloid
-tensorflow
 prdc
